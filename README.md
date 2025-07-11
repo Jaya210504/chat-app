@@ -43,7 +43,7 @@ Database Setup:
 Tables:
 - users(id, username, email, password, created_at) - chat_rooms(id, name, description, created_at) - messages(id, room_id, user_id, message_text, timestamp)
 Setup Instructions:
-1.	Clone the Repository   git clone https://github.com/Jaya210504/chat-app.git    cd chat-app
+1.	Clone the Repository   git clone https://github.com/yourusername/chat-app.git    cd chat-app
 2.	Update Database Configuration (includes/db.php)
    $host = "localhost";
    $user = "root";
