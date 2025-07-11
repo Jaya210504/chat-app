@@ -17,7 +17,9 @@ Tech Stack:
 -	Real-time Server: Ratchet WebSocket (PHP)
 -	Database: MySQL
 Folder Structure:
-chat-app/ ├── auth/ │   ├── login.php
+chat-app/
+├── auth/ │
+├── login.php
 │   ├── logout.php
 │   └── register.php
 ├── chat/
