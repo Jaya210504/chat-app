@@ -56,7 +56,7 @@ Keep this terminal open while using the chat app.
 Sample Credentials:
 | Username | Email         | Password |
 |----------|---------------|----------|
-| jaya     | jaya@test.com | 12345    | | anvi     | anvi@test.com | 12345    |
+| jaya     | jaya@gmail.com | 12345    | | anvi     | anvi@gmail.com | 12345    |
 Notes:
 -	Ensure ws-server/server.php is running before testing chat.
 -	Tested on localhost at port 8080. - WebSocket URL: ws://localhost:8080
